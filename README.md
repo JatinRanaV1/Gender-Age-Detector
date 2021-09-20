@@ -7,6 +7,9 @@
 #### 2. Classify into Male/Female
 #### 3. Classify into one of the 8 age ranges
 #### 4. Put the results on the image and display it
-
+##
 ## Flowchart:
 ![Alt text](https://github.com/JatinRanaV1/Gender-Age-Detector/blob/main/flowchart.jpg)
+##
+## Input Example:
+##

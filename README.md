@@ -12,6 +12,6 @@
 ![Alt text](https://github.com/JatinRanaV1/Gender-Age-Detector/blob/main/flowchart.jpg)
 ##
 ## Input Example:
-![Alt text](https://github.com/JatinRanaV1/Gender-Age-Detector/blob/main/Input.JPG)
+![Alt text](https://github.com/JatinRanaV1/Gender-Age-Detector/blob/main/input.JPG)
 ## Output:
-![Alt text](https://github.com/JatinRanaV1/Gender-Age-Detector/blob/main/Output.JPG)
+![Alt text](https://github.com/JatinRanaV1/Gender-Age-Detector/blob/main/output.JPG)

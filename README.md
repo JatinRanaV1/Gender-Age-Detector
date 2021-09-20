@@ -9,3 +9,4 @@
 #### 4. Put the results on the image and display it
 
 ## Flowchart:
+![Alt text](https://github.com/JatinRanaV1/Gender-Age-Detector/blob/main/flowchart.jpg)
